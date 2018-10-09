@@ -1,6 +1,6 @@
 # Victor Hugo CMS Template
 <!-- Markdown snippet -->
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/bdougie/hugo-restaurant-template)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/bdougie/hugo-restaurant-template) [![Greenkeeper badge](https://badges.greenkeeper.io/wmemorgan/hugo-restaurant-tutorial.svg)](https://greenkeeper.io/)
 
 ![casper theme image](https://s3-us-west-1.amazonaws.com/publis-brian-images/restaurant.jpg)
 
